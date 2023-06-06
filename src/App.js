@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React bro
+          aprendiendo a mergear papu!
         </a>
       </header>
     </div>
